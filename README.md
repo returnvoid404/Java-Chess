@@ -22,10 +22,13 @@ This project simulates a complete chess game with interactive UI and full game l
 ## 📁 Project Structure
 
 /assets
+
 └── guava-33.3.1.jar # Guava library
 
 /src
+
 └── JChess.java # Main application file with entry point
+
 └── ... other source files
 
 ## ⚙️ Running the Project
